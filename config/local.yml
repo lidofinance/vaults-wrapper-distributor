@@ -1,0 +1,7 @@
+config:
+  rpc_url: "http://localhost:9123"
+  wrapper_addr: "0xBEe6FFc1E8627F51CcDF0b4399a1e1abc5165f15"
+  distributor_addr: "0x10e38eE9dd4C549b61400Fc19347D00eD3edAfC4"
+  operator_fee: 0.0
+  output_file: "./distributor-local.json"
+  ipfs_gateway: "http://localhost:5001" 

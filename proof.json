@@ -1,0 +1,11 @@
+{
+  "recipient": "0x14dC79964da2C08b23698B3D3cc7Ca32193d9955",
+  "token": "0x262e2b50219620226C5fB5956432A88fffd94Ba7",
+  "amount": "1302858430",
+  "proof": [
+    "0xfbc349bad96d04c54a94cdbd9b5c41c5d38343c531b6bf17764da54d83e49d9b",
+    "0x8a30860fea966850172650e5e227c6481585cf0cd77e98ed74caca0d4b265524"
+  ],
+  "merkleRoot": "0xc7ba84ceeaa7bfbb8e915e6a2d2710cdb9cf3fa354d48693aaba578360087a34",
+  "treeIndex": 6
+}
