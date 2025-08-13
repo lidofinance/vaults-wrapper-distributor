@@ -158,7 +158,7 @@ export class Distributor {
 
         // Calculate user's share of wrapper tokens (user_balance / total_supply)
         const userShare = (effectiveBalance * precision) / totalSupply;
-        const tokenAmount = (distributableAmount * userShare) / precision;
+        const tokenAmount = (actualDistributableAmount * userShare) / precision;
 
         if (tokenAmount > 0n) {
           const userPreviousClaims = previousClaims.get(user) || new Map();
